@@ -1,0 +1,12 @@
+Vị	Màu	Vỏ	Độc tính
+Ngọt	Đỏ	Nhẵn	Không
+Cay	Đỏ	Nhẵn	Có
+Chua	Vàng	Có gai	Không
+Cay	Vàng	Có gai	Có
+Ngọt	Tím	Có gai	Không
+Chua	Vàng	Nhẵn	Không
+Ngọt	Tím	Nhẵn	Không
+Cay	Tím	Có gai	Có
+Cay	Tím	Có gai	Không
+Cay	Tím	Có gai	Có
+Cay	Vàng	Có gai	Có
